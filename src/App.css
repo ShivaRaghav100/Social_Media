@@ -1,0 +1,29 @@
+.app-contenier{
+  display: flex;
+}
+.AapContenerChild{
+  width: 100%;
+}
+.sideBar{
+  min-height: 740px;
+}
+.form{
+  margin: 20px 50px;
+  min-height: 450px;
+}
+.card{
+  margin: 15px;
+  text-align: center;
+}
+.body{
+  display: flex;
+  flex-wrap: wrap;
+}
+.hashtag{
+  margin: 5px;
+  padding: 10px;
+  font-size: large;
+}
+.alert{
+  margin: 5px;
+}
